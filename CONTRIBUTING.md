@@ -16,24 +16,24 @@ Fork the repository by clicking the "Fork" button on the top right of the GitHub
 
 2. Clone the Forked Repository
 Clone your forked repository to your local machine using the following command:
-git clone https://github.com/yourusername/simple-interest-calculator.git
+git clone https://github.com/yourusername/github-final-project.git
 
-3. Create a Branch
+4. Create a Branch
 Create a new branch for your feature or bug fix:
 git checkout -b feature-branch-name
 
-4. Make Changes
+5. Make Changes
 Make your changes to the codebase. Please ensure that your code adheres to the existing style and that it is well-documented.
 
-5. Commit Changes
+6. Commit Changes
 Commit your changes with a descriptive commit message:
 git commit -m "Description of your changes"
 
-6. Push Changes
+7. Push Changes
 Push your changes to your forked repository:
 git push origin feature-branch-name
 
-7. Open a Pull Request
+8. Open a Pull Request
 Go to the original repository and open a pull request. Provide a clear and concise description of what your changes do and why they are necessary.
 
 ## Code Style
